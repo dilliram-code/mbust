@@ -1,0 +1,5 @@
+Kernel,CV Accuracy (mean),CV Accuracy (std),Test Accuracy,Test Precision,Test Recall,Test F1-score
+rbf,0.7785,0.0079,0.7403,0.6522,0.5556,0.6
+sigmoid,0.7215,0.041,0.7013,0.5714,0.5926,0.5818
+linear,0.7882,0.0168,0.7013,0.5909,0.4815,0.5306
+poly,0.7361,0.016,0.7143,0.6667,0.3704,0.4762
